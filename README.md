@@ -40,9 +40,9 @@
 
 ## Төслийг ажиллуулах
 
-1. **Локал Веб сервэр эхлүүлэх**
-    index.html дээр "Open with Live Server"
-    Энэ нь ихэвчлэн `http://localhost:3000`-д эхлүүлнэ.
+1. **Локал Веб сервер эхлүүлэх**
+    - index.html дээр "Open with Live Server"
+    - Энэ нь ихэвчлэн `http://localhost:3000`-д эхлүүлнэ.
 
 2. **Вэб хөтөчид `index.html`**
     - Хөтөчөө нээгээд `http://localhost:3000`-руу очих.
